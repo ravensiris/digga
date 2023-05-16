@@ -26,7 +26,7 @@
     devshell.inputs.nixpkgs.follows = "nixpkgs";
 
     flake-utils.url = "github:numtide/flake-utils";
-    flake-utils-plus.url = "github:ravensiris/flake-utils-plus";
+    flake-utils-plus.url = "github:ravensiris/flake-utils-plus?ref=ravensiris/fix-devshell-legacy-packages";
     flake-utils-plus.inputs.flake-utils.follows = "flake-utils";
 
     flake-compat = {
