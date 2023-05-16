@@ -120,16 +120,15 @@
         ]
       },
       "locked": {
-        "lastModified": 1654029967,
-        "narHash": "sha256-my3GQ3mQIw/1f6GPV1IhUZrcYQSWh0YJAMPNBjhXJDw=",
-        "owner": "gytis-ivaskevicius",
+        "lastModified": 1657226504,
+        "narHash": "sha256-GIYNjuq4mJlFgqKsZ+YrgzWm0IpA4axA3MCrdKYj7gs=",
+        "owner": "ravensiris",
         "repo": "flake-utils-plus",
-        "rev": "6271cf3842ff9c8a9af9e3508c547f86bc77d199",
+        "rev": "2bf0f91643c2e5ae38c1b26893ac2927ac9bd82a",
         "type": "github"
       },
       "original": {
-        "owner": "gytis-ivaskevicius",
-        "ref": "refs/pull/120/head",
+        "owner": "ravensiris",
         "repo": "flake-utils-plus",
         "type": "github"
       }
